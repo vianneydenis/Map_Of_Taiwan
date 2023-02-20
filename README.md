@@ -14,4 +14,5 @@ Source of the data: https://data.moi.gov.tw/ (now: data.gov.tw)
 
 
 <p align="center"><img align="center" src="./.github/Taiwan_full.png"/></p>
-
+<p align="center"><img align="center" src="./.github/Taiping.png"/></p>
+<p align="center"><img align="center" src="./.github/Dongsha.png"/></p>
