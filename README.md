@@ -5,7 +5,7 @@
 
 ---
 
-This R script generated an interactive map of | <img src='PNG/TW@2x.png?raw=true' width='21' height='15'>. Data are provided as .shp and are downloaded from https://data.moi.gov.tw/ 
+This R script generated an interactive map of Taiwan <img src='.github/TW@2x.png' width='21' height='15'> Data are provided as .shp and are downloaded from https://data.moi.gov.tw/ 
 
 Author: Vianney DENIS 
 Email: vianney.denis@gmail.com
