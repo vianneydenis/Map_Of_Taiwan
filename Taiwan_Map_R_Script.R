@@ -1,5 +1,8 @@
 # MAP OF TAIWAN (Last update: 2023/2/20)
 
+library(tidyverse)
+library (leaflet)
+
 ## Shape files
 
 url <- 'https://data.moi.gov.tw/MoiOD/System/DownloadFile.aspx?DATA=72874C55-884D-4CEA-B7D6-F60B0BE85AB0'
@@ -29,6 +32,4 @@ map <-leaflet::leaflet(taiwan) %>%
 
 map
 
-# map shot
 
-mapview::mapshot(map, file = ".github/taiwan.png")
